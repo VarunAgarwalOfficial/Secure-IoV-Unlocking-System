@@ -1,5 +1,7 @@
 # Secure IoV Unlocking System: Two-Laptop Hardware Demo
 
+**Moved.** This code now lives in the `rework-2025/` folder of [Secure-Wireless-Smart-Car-Door-Unlocking-System](https://github.com/VarunAgarwalOfficial/Secure-Wireless-Smart-Car-Door-Unlocking-System/tree/main/rework-2025), with its history. This repository is archived.
+
 A two-laptop demonstration of rolling-code car door locking. One laptop plays the car and drives an Arduino (LEDs, servo signal line and buzzer) through pyFirmata; the other plays the remote and sends one-time lock and unlock codes over the local network.
 
 This repository is the 2025 hardware and network rework of the demonstration for the paper "Secure Wireless Smart Car Door Unlocking System" (Springer, Lecture Notes in Networks and Systems, vol. 528, [doi:10.1007/978-981-19-5845-8_8](https://doi.org/10.1007/978-981-19-5845-8_8)). The paper's own repository is [Secure-Wireless-Smart-Car-Door-Unlocking-System](https://github.com/VarunAgarwalOfficial/Secure-Wireless-Smart-Car-Door-Unlocking-System).
